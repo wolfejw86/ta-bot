@@ -1,3 +1,8 @@
+/**
+*for: App portion to define middlewars 
+* @module App 
+* 
+*/
 import express from 'express';
 import cors from 'cors';
 import morgan from 'morgan';

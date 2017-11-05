@@ -1,6 +1,6 @@
 /**
  * Entrypoint for starting the server
- * @module index
+ * @module server
  */
 // import Sequelize from 'sequelize';
 import app from './app';
